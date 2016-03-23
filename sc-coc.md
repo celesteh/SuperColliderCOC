@@ -4,7 +4,7 @@ A primary goal of all the conferences and user groups that refer to this Code of
 
 This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in our events to help us create safe and positive experiences for everyone.
+We invite all those who participate in our community to help us create safe and positive experiences for everyone.
 
 ## Diversity Statement
 
@@ -80,7 +80,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## If You Witness or Are Subject to Unacceptable Behavior
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. \[You can find a list of organizers to contact for each of the supporters of this code of conduct at the bottom of this page.\] Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## Addressing Grievances
 
