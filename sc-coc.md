@@ -41,7 +41,7 @@ If you see someone who is making an extra effort to ensure our community is welc
 * It's fine to announce any commercial or noncommercial work/software/event that directly involves SC. In particular, the SC community loves to hear about artistic projects created with the software. 
 * It's also fine to announce a noncommercial work/software/event topically related to SC. 
 * Announcing a commercial work/software/event that only has a topical relationship to SC is discouraged. 
-* Self-promotion should be in courteous volumes. 
+* Self-promotion should be in courteous volumes and preferably include a good description. 
 
 ## Unacceptable Behavior
 
