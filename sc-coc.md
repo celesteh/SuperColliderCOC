@@ -38,10 +38,11 @@ If you see someone who is making an extra effort to ensure our community is welc
 * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential. 
 
 ### Self-Promotion
-* It's fine to announce any commercial or noncommercial work/software/event that directly involves SC. In particular, the SC community loves to hear about artistic projects created with the software. 
-* It's also fine to announce a noncommercial work/software/event topically related to SC. 
-* Announcing a commercial work/software/event that only has a topical relationship to SC is discouraged. 
-* Self-promotion should be in courteous volumes and preferably include a good description. 
+
+* You are invited to use the SuperCollider mailing lists and forums to share your own projects and events, commercial or noncommercial, that directly involve SuperCollider.
+* You may also share news of projects and events that are only topically related to SuperCollider, provided that they are noncommercial.
+* Avoid using the community as a platform to advertise commercial products that lack direct connections to the software.
+* Self-promotion postings should be in courteous volumes and preferably include good descriptions.
 
 ## Unacceptable Behavior
 
