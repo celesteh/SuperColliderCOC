@@ -39,7 +39,7 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 ### Self-Promotion
 
-* You are invited to use the SuperCollider mailing lists and forums to share your own projects and events, commercial or noncommercial, that directly involve SuperCollider.
+* You are invited to use the SuperCollider mailing lists and forums to share your own projects and events, commercial or noncommercial, that directly involve SuperCollider. Posting your artistic projects is specifically encouraged.
 * You may also share news of projects and events that are only topically related to SuperCollider, provided that they are noncommercial.
 * Avoid using the community as a platform to advertise commercial products that lack direct connections to the software.
 * Self-promotion postings should be in courteous volumes and preferably include good descriptions.
@@ -70,7 +70,6 @@ The SuperCollider community prioritizes marginalized people’s safety over priv
 * ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’ 
 * Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you” 
 * Refusal to explain or debate social justice concepts 
-* Communicating in a ‘tone’ you don’t find congenial 
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions 
 
 ## Consequences of Unacceptable Behavior
