@@ -92,5 +92,5 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 ## License and attribution
 
-The SuperCollider Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license. It is based on the pdx.rb code of conduct, which is distributed under the same license and the todo open code of conduct.
+The SuperCollider Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license. It is based on the [Berlin Code of Conduct](http://berlincodeofconduct.org/) which is distributed under the same license and the [Open Code of Conduct](http://todogroup.org/opencodeofconduct/).
 
